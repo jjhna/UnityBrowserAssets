@@ -1,0 +1,40 @@
+#clientX
+{
+    height:80px;
+    font-size:30pt;
+}
+
+#clientY
+{
+    height:80px;
+    font-size:30pt;
+}
+
+#clientZ
+{
+    height:80px;
+    font-size:30pt;
+}
+
+#wallX
+{
+    height:80px;
+    font-size:30pt;
+}
+
+#wallY
+{
+    height:80px;
+    font-size:30pt;
+}
+
+#wallZ
+{
+    height:80px;
+    font-size:30pt;
+}
+
+.col-2.col-form-label
+{
+  font-size:30pt;
+}
